@@ -1,0 +1,6 @@
+// Neither of the ~ imports below work
+//@import "~bootstrap/scss/_alert.scss"
+@import "~bootstrap/scss/alert.scss"
+
+// A relative path does work
+//@import "./node_modules/bootstrap/scss/alert.scss"
